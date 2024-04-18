@@ -1,2 +1,2 @@
 # This is my local Repo
-## This README local file is created locally and pushed to GitHub.
+## This is a locally created README file and pushed to GitHub.
